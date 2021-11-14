@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "oliverartz"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,8 +12,15 @@ I have been a molecular genticist for almost a decade working to better understa
 
 Research Experience
 ======
-CSHL
-
+- April 2019 to May 2021: **Postdoctoral Scientist at Cold Spring Harbor Laboratory (Cold Spring Harbor, NY, USA)**
+  - PI: Assistant Prof. Ullas V. Pedmale
+- October 2014 to April 2019: **Graduate Student at University of Cologne (Cologne, NRW, Germany)**
+  - PI: Prof. Ute Hoecker
+- July 2013 to October 2013: **Visiting Scholar at University of California at Berkeley (Berkeley, CA, USA)**
+  - PI: Prof. Peter Quail
+- July 2012 to October 2012: **Visiting Scholar at Royal Melbourne Institute of Technology (Melbourne, VIC, Australia)**
+  - PI: Assoc. Prof. Aidyn Mouradov
+  
 Professional Development
 ======
 
