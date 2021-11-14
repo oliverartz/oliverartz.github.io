@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Oliver Artz"
-  avatar           : "portrait.jpg"
+  avatar           : "profile.png"
   bio              : "Molecular Geneticis | RNA biologist | Bioinformatics Scientist"
-  location         : "Syosset, NY, USA | Kevelaer, NRW, Germany"
+  location         : "Syosset, USA | Kevelaer, GER"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=YLSnUi4AAAAJ&hl=en&oi=sra"
