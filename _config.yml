@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oliver Artz' Website"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Oliver Artz"
 description              : &description "personal description"
