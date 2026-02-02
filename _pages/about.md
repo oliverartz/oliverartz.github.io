@@ -42,11 +42,6 @@ redirect_from:
       <p class="oa-eyebrow">Cancer Genomics | Computational Biology | Precision Immunotherapy</p>
       <h1 class="oa-title">Oliver Artz</h1>
       <p class="oa-lede">Molecular geneticist and RNA biologist working at the intersection of transcriptomics and precision oncology. I build computational and experimental frameworks to decode tumor evolution and guide immunotherapy.</p>
-      <div class="oa-cta">
-        <a class="oa-button" href="/publications/">Publications</a>
-        <a class="oa-button oa-button--ghost" href="/talks/">Talks</a>
-        <a class="oa-button oa-button--ghost" href="/teaching/">Teaching</a>
-      </div>
     </div>
     <div class="oa-hero__card">
       <div class="oa-portrait">
@@ -86,6 +81,10 @@ redirect_from:
       <article class="oa-card">
         <h3>Bioinformatics Engineer, Memorial Sloan Kettering</h3>
         <p>Built pipelines and models to connect large-scale genomics with experimental systems.</p>
+      </article>
+      <article class="oa-card">
+        <h3>Postdoctoral Fellow, Cold Spring Harbor Laboratory</h3>
+        <p>Studied RNA methylation and environmental signal integration using Arabidopsis.</p>
       </article>
     </div>
   </section>
