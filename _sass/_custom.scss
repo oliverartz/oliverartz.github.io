@@ -354,18 +354,36 @@ a:focus {
 /* Enhanced Typography */
 .oa-section p {
   line-height: 1.7;
-  font-size: clamp(1rem, 0.95rem + 0.25vw, 1.1rem);
+  font-size: 1.05rem;
+}
+
+@media (min-width: 900px) {
+  .oa-section p {
+    font-size: 1.1rem;
+  }
 }
 
 .oa-home h2 {
   font-weight: 700;
-  font-size: clamp(1.8rem, 1.5rem + 1vw, 2.4rem);
+  font-size: 1.8rem;
   margin-bottom: 1.2rem;
+}
+
+@media (min-width: 900px) {
+  .oa-home h2 {
+    font-size: 2.4rem;
+  }
 }
 
 .oa-home h3 {
   font-weight: 600;
-  font-size: clamp(1.3rem, 1.2rem + 0.5vw, 1.6rem);
+  font-size: 1.3rem;
+}
+
+@media (min-width: 900px) {
+  .oa-home h3 {
+    font-size: 1.6rem;
+  }
 }
 
 /* Card Hover Effects */
@@ -436,9 +454,15 @@ a:focus {
 
 /* CTA Section Enhancement */
 .oa-section--cta .oa-callout h2 {
-  font-size: clamp(1.8rem, 2vw, 2.4rem);
+  font-size: 1.8rem;
   color: var(--oa-ink);
   margin-bottom: 0.8rem;
+}
+
+@media (min-width: 900px) {
+  .oa-section--cta .oa-callout h2 {
+    font-size: 2.4rem;
+  }
 }
 
 .oa-section--cta .oa-callout p {
