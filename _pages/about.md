@@ -21,12 +21,6 @@ redirect_from:
         <a class="oa-button oa-button--ghost" href="/talks/">Talks</a>
         <a class="oa-button oa-button--ghost" href="/teaching/">Teaching</a>
       </div>
-      <div class="oa-links">
-        <a class="oa-link" href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-        <a class="oa-link" href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a>
-        <a class="oa-link" href="{{ site.author.linkedin }}"><i class="fab fa-linkedin"></i> LinkedIn</a>
-        <a class="oa-link" href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> GitHub</a>
-      </div>
     </div>
     <div class="oa-hero__card">
       <div class="oa-portrait">
@@ -74,10 +68,10 @@ redirect_from:
     <h2>Connect</h2>
     <p>If you are interested in collaboration, feel free to reach out through any of the links below.</p>
     <div class="oa-links">
-      <a class="oa-link" href="{{ site.author.linkedin }}"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <a class="oa-link" href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-      <a class="oa-link" href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a>
-      <a class="oa-link" href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> GitHub</a>
+      <a class="oa-link" href="{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a class="oa-link" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+      <a class="oa-link" href="{{ site.author.orcid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid"></i> ORCID</a>
+      <a class="oa-link" href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> GitHub</a>
     </div>
   </section>
 </div>
