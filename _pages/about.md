@@ -8,6 +8,32 @@ classes: wide
 redirect_from: 
   - /about/
   - /about.html
+  - /publications/
+  - /talks/
+  - /teaching/
+  - /cv/
+  - /portfolio/
+  - /terms/
+  - /sitemap/
+  - /page-archive/
+  - /tags/
+  - /categories/
+  - /collection-archive/
+  - /year-archive/
+  - /archive-layout-with-content/
+  - /markdown/
+  - /non-menu-page/
+  - /talkmap.html
+  - /talks/2015-ispp-austin
+  - /talks/2018-ispp-matsue
+  - /teaching/2014-2019-phd-mentoring
+  - /publication/2019-12-01-spa-mutants-physcomitrella
+  - /publication/2025-06-19-clonal-hematopoiesis
+  - /publication/2025-04-27-mismatch-repair-deficient-tumors
+  - /posts/2012/08/blog-post-1/
+  - /posts/2012/08/blog-post-4/
+  - /posts/2013/08/blog-post-2/
+  - /posts/2014/08/blog-post-3/
 ---
 
 <div class="oa-home">
