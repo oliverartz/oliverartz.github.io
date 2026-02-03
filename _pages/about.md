@@ -41,7 +41,7 @@ redirect_from:
     <div class="oa-hero__content">
       <p class="oa-eyebrow">Cancer Genomics | Computational Biology | Precision Immunotherapy</p>
       <h1 class="oa-title">Oliver Artz</h1>
-      <p class="oa-lede">Molecular geneticist and RNA biologist who works across computation and wet lab. I build transcriptomic models and experimental systems to decode tumor evolution and guide immunotherapy.</p>
+      <p class="oa-lede">Molecular geneticist and RNA biologist who works across computation and wet lab. I build transcriptomic models and experimental systems to decode tumor evolution and drive precision immune engineering.</p>
     </div>
     <div class="oa-hero__card">
       <div class="oa-portrait">
@@ -58,7 +58,7 @@ redirect_from:
     <div class="oa-split">
       <div>
         <h2>Focus</h2>
-        <p>I work across computational biology and wet-lab experimentation to understand tumor evolution, uncover resistance, and translate insights into better immunotherapy strategies.</p>
+        <p>I work across computational biology and wet-lab experimentation to understand tumor evolution, uncover resistance, and translate insights into precision immune engineering strategies.</p>
       </div>
       <div class="oa-highlight">
         <h3>Methods</h3>
@@ -76,7 +76,7 @@ redirect_from:
     <div class="oa-card-grid">
       <article class="oa-card">
         <h3>Senior Research Scientist, Memorial Sloan Kettering</h3>
-        <p>Cancer genomics and immunology, focusing on tumor evolution and precision immunotherapy.</p>
+        <p>Cancer genomics and immunology, focusing on tumor evolution and precision immune engineering.</p>
       </article>
       <article class="oa-card">
         <h3>Bioinformatics Engineer, Memorial Sloan Kettering</h3>
