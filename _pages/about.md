@@ -83,7 +83,7 @@ redirect_from:
       <article class="oa-card">
         <h3>Senior Research Scientist, Memorial Sloan Kettering</h3>
         <p>Cancer genomics and immunology, focusing on tumor evolution and precision immune engineering.</p>
-        <p>Leading independent projects in tumor evolution and immune engineering, including first-author translational studies.</p>
+        <p>Leading independent projects in tumor evolution and immune engineering.</p>
       </article>
       <article class="oa-card">
         <h3>Bioinformatics Engineer, Memorial Sloan Kettering</h3>
