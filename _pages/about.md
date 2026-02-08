@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: ""
-excerpt: "Molecular geneticist and RNA biologist using transcriptomics and bioinformatics to study environmental adaptation."
+excerpt: "Immune engineering for cancer therapy: neoantigen biology, antigen presentation, and resistance."
 author_profile: false
 classes: wide
 redirect_from: 
@@ -39,9 +39,10 @@ redirect_from:
 <div class="oa-home">
   <section class="oa-hero">
     <div class="oa-hero__content">
-      <p class="oa-eyebrow">Cancer Genomics | Computational Biology | Precision Immunotherapy</p>
+      <p class="oa-eyebrow">Immune Engineering for Cancer Therapy</p>
+      <p class="oa-eyebrow">Neoantigen biology, antigen presentation, and resistance</p>
       <h1 class="oa-title">Oliver Artz</h1>
-      <p class="oa-lede">Molecular geneticist and RNA biologist who works across computation and wet lab. I build transcriptomic models and experimental systems to decode tumor evolution and drive precision immune engineering.</p>
+      <p class="oa-lede">I develop immune engineering strategies to overcome tumor immune escape. My work integrates cancer genomics, immunopeptidomics, and in vivo validation to enable precision immunotherapies.</p>
     </div>
     <div class="oa-hero__card">
       <div class="oa-portrait">
@@ -57,15 +58,20 @@ redirect_from:
   <section class="oa-section">
     <div class="oa-split">
       <div>
-        <h2>Focus</h2>
-        <p>I work across computational biology and wet-lab experimentation to understand tumor evolution, uncover resistance, and translate insights into precision immune engineering strategies.</p>
+        <h2>Research focus</h2>
+        <ul class="oa-list">
+          <li>How tumor evolution reshapes antigen presentation and immune visibility</li>
+          <li>Why driver mutations persist despite immune pressure</li>
+          <li>How molecular and immunologic engineering can restore immune recognition</li>
+        </ul>
       </div>
       <div class="oa-highlight">
-        <h3>Methods</h3>
+        <h3>Approach</h3>
         <ul class="oa-list">
-          <li>Transcriptomics and epitranscriptomics analysis</li>
-          <li>Integrated wet-lab and computational study design</li>
-          <li>Clear data storytelling for cross-disciplinary teams</li>
+          <li>Quantitative cancer genomics and immunogenomics</li>
+          <li>Immunopeptidomics and antigen presentation assays</li>
+          <li>Mouse and cell-based models for immune engineering</li>
+          <li>Computational modeling tightly coupled to experimental validation</li>
         </ul>
       </div>
     </div>
@@ -77,10 +83,12 @@ redirect_from:
       <article class="oa-card">
         <h3>Senior Research Scientist, Memorial Sloan Kettering</h3>
         <p>Cancer genomics and immunology, focusing on tumor evolution and precision immune engineering.</p>
+        <p>Leading independent projects in tumor evolution and immune engineering, including first-author translational studies.</p>
       </article>
       <article class="oa-card">
         <h3>Bioinformatics Engineer, Memorial Sloan Kettering</h3>
         <p>Built pipelines and models to connect large-scale genomics with experimental systems.</p>
+        <p>Established reproducible genomics pipelines now used across multiple experimental programs.</p>
       </article>
       <article class="oa-card">
         <h3>Postdoctoral Fellow, Cold Spring Harbor Laboratory</h3>
